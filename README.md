@@ -1,5 +1,5 @@
 # Barcodes Generator
-https://serial-number-to-barcode.herokuapp.com/
+# https://serial-number-to-barcode.herokuapp.com/
 A customized barcodes generator, the project allows one to create multiple barcodes at once by entering comma or space separated list of barcodes.
 The barcodes generated will start with the letter "S" by default.
 
